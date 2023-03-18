@@ -1,0 +1,62 @@
+[
+  {
+      "title": "The Dark Knight",
+      "openingText": "Batman must confront the Joker, a new and ruthless criminal mastermind who seeks to plunge Gotham City into anarchy.",
+      "releaseDate": "2008-07-18"
+  },
+  {
+      "title": "The Godfather",
+      "openingText": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "releaseDate": "1972-03-24"
+  },
+  {
+      "title": "The Shawshank Redemption",
+      "openingText": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "releaseDate": "1994-09-23"
+  },
+  {
+      "title": "Pulp Fiction",
+      "openingText": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "releaseDate": "1994-10-14"
+  },
+  {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "openingText": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "releaseDate": "2001-12-19"
+  },
+  {
+      "title": "The Matrix",
+      "openingText": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "releaseDate": "1999-03-31"
+  },
+  {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "openingText": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle station.",
+      "releaseDate": "1977-05-25"
+  },
+  {
+      "title": "Forrest Gump",
+      "openingText": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "releaseDate": "1994-07-06"
+  },
+  {
+      "title": "Inception",
+      "openingText": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "releaseDate": "2010-07-16"
+  },
+  {
+      "title": "Fight Club",
+      "openingText": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "releaseDate": "1999-10-15"
+  },
+  {
+      "title": "The Silence of the Lambs",
+      "openingText": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "releaseDate": "1991-02-14"
+  },
+  {
+      "title": "Goodfellas",
+      "openingText": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+  "releaseDate": "1990-09-19"
+  }
+]
